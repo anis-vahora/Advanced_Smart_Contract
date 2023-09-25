@@ -7,5 +7,3 @@
 **Lab 2**:
 ![image](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/3ed42b69-0878-49dd-822d-5578731c497c)
 ![image](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/15046853-874a-40b3-a656-88f28d0373c9)
-
-
