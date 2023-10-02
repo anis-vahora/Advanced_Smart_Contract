@@ -10,6 +10,11 @@
 ![Screenshot 2023-09-24 221704](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/cc5c8c19-a4fc-4180-bfc0-5482325d2762)
 
 
+**Lab 3**
+Output:
+![Screenshot 2023-10-01 222540](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/75ae972a-e20f-4014-852e-dfcecf978160)
+
+
 **Assignment 1**
 
 ![Screenshot 2023-10-01 152201](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/c5de804c-3cb3-43db-bd0c-b0161787a3a0)
