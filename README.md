@@ -35,3 +35,13 @@ Also the ganache account shows that the amount has been reduced from the origina
 
 Explanation: 
 I ran truffle test to execute my unit tests for the contracts on the local development network. The contracts were compiled successfully, and the tests were executed. The results indicate that the test case for the "Bridge1" contract passed. Specifically, the test confirmed that tokens can be sent to the bridge contract successfully. The test execution was quick, and all the detailed outputs, including the compilation and test results, were displayed in the terminal. Now, I have verified through testing that the token sending functionality to the bridge contract is working as expected.
+
+
+Lab 5:
+ChainLink Consumer Added:
+![Screenshot 2023-10-01 215834](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/1df049ea-438a-4700-b379-d302a2cf9458)
+
+Random Words Output:
+![Screenshot 2023-10-01 220143](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/e6287719-c219-45cb-8feb-c9117bb4ebe0)
+
+
