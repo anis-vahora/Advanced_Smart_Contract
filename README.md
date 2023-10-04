@@ -57,3 +57,13 @@ Random Words Output:
 ![Screenshot 2023-10-01 220143](https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/e6287719-c219-45cb-8feb-c9117bb4ebe0)
 
 
+
+
+***Assignment 2 Video:***
+
+https://github.com/anis-vahora/Advanced_Smart_Contract/assets/58881736/da4f4dee-125b-4758-b7b1-dfdb09253c1a
+
+
+
+
+
